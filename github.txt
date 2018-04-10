@@ -1,0 +1,14 @@
+1. gitgub가입
+ https://github.com
+계정 : dosupa21, dosupa21@gmail.com
+
+2. git-scm설치
+- git download
+https://git-scm.com/download
+
+- 디폴트 값으로 설치
+- 가입시 입력한 정보로 git에 알려준다
+ git config --global user.name "유저이름(dosupa21)"
+ git config --global user.email "유저 이메일(dosupa21@gmail.com)"  
+
+3. 저장소 생성 및 파일커밋
